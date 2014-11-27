@@ -5,7 +5,7 @@ body {
 
 .container {
     width: 800px;
-    margin: 50px auto 0;
+    margin: auto;
 }
 
 textarea,
@@ -29,13 +29,6 @@ label {
 }
 .options-block {
     margin: 10px 0;
-}
-.options-allow-origin {
-    width: 300px;
-}
-.options-allow-headers {
-    width: 600px;
-    height: 100px;
 }
 .options-em {
     margin: 5px 0 10px 0;
